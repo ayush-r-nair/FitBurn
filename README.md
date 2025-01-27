@@ -46,5 +46,5 @@ The **FitBurn** project involves the following steps:
 Make sure you have Python 3.8+ installed along with the following libraries:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+pip install numpy pandas scikit-learn matplotlib seaborn joblib streamlit
 
