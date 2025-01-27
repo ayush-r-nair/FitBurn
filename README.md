@@ -35,6 +35,7 @@ The **FitBurn** project involves the following steps:
   - `scikit-learn` for model training and evaluation
   - `pandas` and `numpy` for data processing
   - `matplotlib` and `seaborn` for data visualization
+  - `joblib` for saving the model and `streamlit` to host the model in website
 - **Tools**:
   - Jupyter Notebook for development
   - GitHub for version control
